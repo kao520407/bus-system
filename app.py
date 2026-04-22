@@ -11,8 +11,8 @@ st.title("🚌 公車即時查詢系統（Streamlit版）")
 # ======================
 # 🔑 TDX API
 # ======================
-CLIENT_ID = "你的CLIENT_ID"
-CLIENT_SECRET = "你的CLIENT_SECRET"
+CLIENT_ID = "kaojim123422424-782c33b8-d083-4e86"
+CLIENT_SECRET = "d054be22-e8fc-42bf-bcd1-46a69d262899"
 
 auth_url = "https://tdx.transportdata.tw/auth/realms/TDXConnect/protocol/openid-connect/token"
 
